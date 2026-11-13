@@ -1,0 +1,6 @@
+{
+  "name": "sarashina-relay",
+  "private": true,
+  "type": "module",
+  "description": "Tokyo-region (hnd1) relay for the Sarashina API. Injects the API key server-side; callers authenticate with a relay token."
+}
